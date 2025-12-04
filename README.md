@@ -9,6 +9,8 @@ The dashboard highlights key trends that help businesses understand product perf
 
 ## Dashboard
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity%20-%20Excel%202025-08-30%206_19_06%20AM.png">View Dashboard</a>
+<img width="1366" height="720" alt="Class Activity - Excel 2025-08-30 6_19_06 AM" src="https://github.com/user-attachments/assets/eb007176-2687-4949-a23f-c7bb0f21b6a0" />
+
 
 
 ## Purpose of the Project
