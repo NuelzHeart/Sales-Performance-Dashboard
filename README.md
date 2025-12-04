@@ -6,3 +6,13 @@ The dashboard highlights key trends that help businesses understand product perf
 
 ## Dataset Used
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity.xlsx">Dataset</a>
+
+## Dashboard
+
+
+## Purpose of the Project
+This project demonstrates my ability to:
+- Clean and analyze raw sales data
+- Build meaningful visualizations
+- Transform business objectives into a functional dashboard
+- Present insights that support decision-making
