@@ -1,2 +1,5 @@
-# Sales-Performance-Dashboard
-This project showcases my full Excel workflow; from cleaning and organizing a messy dataset to preparing an analysis-ready table and building clear, insightful visualizations.
+# Sales Analysis Dashboard 
+
+This project presents an interactive Microsoft Excel dashboard built using the McDonald's dataset. The goal is to provide clear, data-driven insights into sales performance, revenue patterns, profitability, and geographic distribution.
+
+The dashboard highlights key trends that help businesses understand product performance, sales channels, payment behavior, and operational efficiency.
