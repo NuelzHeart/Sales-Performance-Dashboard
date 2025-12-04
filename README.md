@@ -8,8 +8,8 @@ The dashboard highlights key trends that help businesses understand product perf
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Mc%20Donald.xlsx">Dataset</a>
 
 ## Dashboard
-- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity%20-%20Excel%202025-08-30%206_19_06%20AM.png">View Dashboard</a>
-<img width="1366" height="720" alt="Class Activity - Excel 2025-08-30 6_19_06 AM" src="https://github.com/user-attachments/assets/eb007176-2687-4949-a23f-c7bb0f21b6a0" />
+- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+<img width="1366" height="720" alt="Class Activity Refurbished - Excel 2025-08-30 6_19_36 AM" src="https://github.com/user-attachments/assets/d8e0963c-c2f9-44a6-9f31-27d23342f350" />
 
 ## Purpose of the Project
 This project demonstrates my ability to:
