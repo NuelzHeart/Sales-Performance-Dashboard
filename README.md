@@ -5,7 +5,7 @@ This project presents an interactive Microsoft Excel dashboard built using the M
 The dashboard highlights key trends that help businesses understand product performance, sales channels, payment behavior, and operational efficiency.
 
 ## Dataset Used
-- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity.xlsx">Dataset</a>
+- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Mc%20Donald.xlsx">Dataset</a>
 
 ## Dashboard
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity%20-%20Excel%202025-08-30%206_19_06%20AM.png">View Dashboard</a>
