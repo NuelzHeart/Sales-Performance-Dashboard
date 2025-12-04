@@ -8,6 +8,7 @@ The dashboard highlights key trends that help businesses understand product perf
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity.xlsx">Dataset</a>
 
 ## Dashboard
+- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Class%20Activity%20-%20Excel%202025-08-30%206_19_06%20AM.png">View Dashboard</a>
 
 
 ## Purpose of the Project
