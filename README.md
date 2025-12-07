@@ -1,7 +1,19 @@
 # Sales Analysis Dashboard 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Used](#dataset-used)
+- [Dashboard](#dashboard)
+- [Purpose of the Project](#purpose-of-the-project)
+- [Objectives](#objectives)
+- [Data Processing Required](#data-processing-required)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Dashboard Analysis](#dashboard-analysis)
+- [Tools Used](#tools-used)
+- [Project Insights](#project-insights)
+- [Recommendations Summary](#recommendations-summary)
 
+## Project Overview
 This project presents an interactive Microsoft Excel dashboard built using the McDonald's dataset. The goal is to provide clear, data-driven insights into sales performance, revenue patterns, profitability, and geographic distribution.
-
 The dashboard highlights key trends that help businesses understand product performance, sales channels, payment behavior, and operational efficiency.
 
 ## Dataset Used
@@ -18,14 +30,6 @@ This project demonstrates my ability to:
 - Transform business objectives into a functional dashboard
 - Present insights that support decision-making
 
-## Data Processing Required
-- Using the F statement, generate the matching country for the city. 
-- Find the revenue for each sales
-- Determine which sales fall into high sales, fair sales, and low sales
-- Extract the month from your date
-- Extract the days of the week from your date
-- Apply any conditional formatting of your choice to revenue
-
 ## Objectives
 - Which products generated the highest revenue
 - Which city has the highest sales
@@ -37,19 +41,30 @@ This project demonstrates my ability to:
 - Are there certain managers who perform better in specific cities
 - Is there a particular product that sells more in a specific country
 
+## Data Processing Required
+- Using the F statement, generate the matching country for the city. 
+- Find the revenue for each sales
+- Determine which sales fall into high sales, fair sales, and low sales
+- Extract the month from your date
+- Extract the days of the week from your date
+- Apply any conditional formatting of your choice to revenue
+  
 ## Key Performance Indicators
 - Total Revenue
 - Total Units Sold
 - Total Transactions
 - Average Price
 
-## Project Overview
+## Dashboard Analysis
 The dashboard analyzes:
 - Revenue distribution by city
 - Revenue distribution by products
 - Manager insights and geographic revenue distribution
 - Daily/periodic sales trend/volume
 - Comparisons of purchase types and payment methods
+
+## Tools Used
+- Microsoft Excel: Data cleaning, validation, dashboard, and visualization
 
 ## Project Insights
 - Sales are driven mainly by core fast-food products such as Burgers, which contribute the highest revenue.
