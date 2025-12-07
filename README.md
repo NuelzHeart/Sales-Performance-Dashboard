@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard 
+# Sales Analysis Dashboard - Excel Dashboard
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset Used](#dataset-used)
@@ -13,8 +13,8 @@
 - [Recommendations Summary](#recommendations-summary)
 
 ## Project Overview
-This project presents an interactive Microsoft Excel dashboard built using the McDonald's dataset. The goal is to provide clear, data-driven insights into sales performance, revenue patterns, profitability, and geographic distribution.
-The dashboard highlights key trends that help businesses understand product performance, sales channels, payment behavior, and operational efficiency.
+This project features an interactive Microsoft Excel dashboard built using a McDonald's sales dataset. The goal is to uncover meaningful insights about revenue performance, product trends, customer behavior, and geographic distribution.
+It demonstrates how raw transactional data can be transformed into a decision-ready analytics dashboard.
 
 ## Dataset Used
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Mc%20Donald.xlsx">Dataset</a>
@@ -42,12 +42,11 @@ This project demonstrates my ability to:
 - Is there a particular product that sells more in a specific country
 
 ## Data Processing Required
-- Using the F statement, generate the matching country for the city. 
-- Find the revenue for each sales
-- Determine which sales fall into high sales, fair sales, and low sales
-- Extract the month from your date
-- Extract the days of the week from your date
-- Apply any conditional formatting of your choice to revenue
+- Generated matching country for each city using lookup formulas
+- Calculated revenue for each transaction
+- Classified transactions into high, fair, and low sales categories
+- Extracted months and days from the date column
+- Applied conditional formatting to highlight revenue patterns
   
 ## Key Performance Indicators
 - Total Revenue
@@ -64,8 +63,8 @@ The dashboard analyzes:
 - Comparisons of purchase types and payment methods
 
 ## Tools Used
-- Microsoft Excel: Data cleaning, validation, dashboard, and visualization
-
+- Microsoft Excel: Data cleaning, transformation, visualization, and dashboard creation
+  
 ## Project Insights
 - Sales are driven mainly by core fast-food products such as Burgers, which contribute the highest revenue.
 - London and Lisbon appear to be the strongest-performing cities, indicating higher customer activity and stronger branch performance.
