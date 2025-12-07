@@ -4,7 +4,7 @@
 - [Dataset Used](#dataset-used)
 - [Dashboard](#dashboard)
 - [Purpose of the Project](#purpose-of-the-project)
-- [Objectives](#objectives)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Processing Required](#data-processing-required)
 - [Key Performance Indicators](#key-performance-indicators)
 - [Dashboard Analysis](#dashboard-analysis)
@@ -30,7 +30,7 @@ This project demonstrates my ability to:
 - Transform business objectives into a functional dashboard
 - Present insights that support decision-making
 
-## Objectives
+## Exploratory Data Analysis
 - Which products generated the highest revenue
 - Which city has the highest sales
 - Which manager handled the most sales transactions 
