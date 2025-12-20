@@ -42,7 +42,7 @@ This project demonstrates my ability to:
 - Is there a particular product that sells more in a specific country
 
 ## Data Processing Required
-- Generated matching country for each city using lookup formulas
+- Generated a matching country for each city using lookup formulas
 - Calculated revenue for each transaction
 - Classified transactions into high, fair, and low sales categories
 - Extracted months and days from the date column
