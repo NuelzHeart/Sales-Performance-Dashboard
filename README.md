@@ -1,4 +1,6 @@
 # Sales Analysis Dashboard - Excel Dashboard
+<img width="1366" height="720" alt="Class Activity Refurbished - Excel 2025-08-30 6_19_36 AM" src="https://github.com/user-attachments/assets/d8e0963c-c2f9-44a6-9f31-27d23342f350" />
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset Used](#dataset-used)
@@ -21,7 +23,6 @@ It demonstrates how raw transactional data can be transformed into a decision-re
 
 ## Dashboard
 - <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
-<img width="1366" height="720" alt="Class Activity Refurbished - Excel 2025-08-30 6_19_36 AM" src="https://github.com/user-attachments/assets/d8e0963c-c2f9-44a6-9f31-27d23342f350" />
 
 ## Purpose of the Project
 This project demonstrates my ability to:
