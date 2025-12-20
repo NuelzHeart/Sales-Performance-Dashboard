@@ -3,26 +3,20 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Dataset Used](#dataset-used)
-- [Dashboard](#dashboard)
 - [Purpose of the Project](#purpose-of-the-project)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Processing Required](#data-processing-required)
 - [Key Performance Indicators](#key-performance-indicators)
 - [Dashboard Analysis](#dashboard-analysis)
 - [Tools Used](#tools-used)
+- [Dataset Used](#dataset-used)
+- [Dashboard](#dashboard)
 - [Project Insights](#project-insights)
 - [Recommendations Summary](#recommendations-summary)
 
 ## Project Overview
 This project features an interactive Microsoft Excel dashboard built using a McDonald's sales dataset. The goal is to uncover meaningful insights about revenue performance, product trends, customer behavior, and geographic distribution.
 It demonstrates how raw transactional data can be transformed into a decision-ready analytics dashboard.
-
-## Dataset Used
-- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Mc%20Donald.xlsx">Dataset</a>
-
-## Dashboard
-- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Purpose of the Project
 This project demonstrates my ability to:
@@ -65,7 +59,13 @@ The dashboard analyzes:
 
 ## Tools Used
 - Microsoft Excel: Data cleaning, transformation, visualization, and dashboard creation
-  
+
+ ## Dataset Used
+- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Mc%20Donald.xlsx">Dataset</a>
+
+## Dashboard
+- <a href="https://github.com/NuelzHeart/Sales-Performance-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
 ## Project Insights
 - Sales are driven mainly by core fast-food products such as Burgers, which contribute the highest revenue.
 - London and Lisbon appear to be the strongest-performing cities, indicating higher customer activity and stronger branch performance.
